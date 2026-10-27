@@ -1,0 +1,33 @@
+Based on the visual provided, here is the description of the business, technical, and quantitative information:
+
+**Visual Type:** Product Portfolio Infographic / Catalog
+
+**Title:** NovaCore Product Portfolio - 2026
+
+**Subtitle:** Embedded product image used for multimodal retrieval
+
+**Key Components (Product Cards):**
+The visual displays three distinct product cards, each containing an icon, product name, technical classification, and a quantitative financial metric (gross margin).
+
+1.  **AtlasEdge X1**
+    *   **Icon:** Dark rectangular device with a screen and four green indicator lights.
+    *   **Technical Classification:** AI edge gateway.
+    *   **Quantitative Metric:** 46% gross margin.
+    *   **Highlight:** This is the highest margin product in the displayed set.
+
+2.  **VisionHub Pro**
+    *   **Icon:** Dark rectangular device featuring a prominent blue camera lens.
+    *   **Technical Classification:** Vision inference node.
+    *   **Quantitative Metric:** 41% gross margin.
+
+3.  **CoreSense Mini**
+    *   **Icon:** Light grey square device with three orange dots and a blue curved line (sensor interface).
+    *   **Technical Classification:** IoT sensor hub.
+    *   **Quantitative Metric:** 37% gross margin.
+
+**Critical Business Note:**
+A text annotation at the bottom of the visual states: "Note: AtlasEdge X1 is the highest-margin product in the 2026 portfolio."
+
+**Summary of Trends:**
+*   **Maximum Margin:** 46% (AtlasEdge X1).
+*   **

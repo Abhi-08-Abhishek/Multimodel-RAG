@@ -1,0 +1,27 @@
+Based on the visual provided, here is the description of the business, technical, and quantitative information:
+
+**Diagram Type:** Linear Supply Chain Flowchart
+
+**Title:** NovaCore Supply Chain Flow
+
+**Workflow Stages & Locations:**
+The diagram illustrates a five-stage linear process flow from manufacturing to distribution:
+
+1.  **Component Suppliers**
+    *   **Locations:** Malaysia / Taiwan
+2.  **Assembly**
+    *   **Location:** Penang, Malaysia
+3.  **Quality Lab**
+    *   **Location:** Singapore
+4.  **Regional Hubs**
+    *   **Locations:** Rotterdam / Dubai
+5.  **Enterprise Customers**
+    *   **Quantitative Metric:** 42 countries
+
+**Critical Control Point:**
+*   **Stage:** Quality Lab
+*   **Technical Requirements:** The diagram highlights a specific quality assurance protocol. The text states: "Every production batch must pass thermal, network, and firmware tests before export."
+
+**Visual Relationships:**
+*   Blue directional arrows indicate a unidirectional flow of goods from Component Suppliers through Assembly and Quality Lab, to Regional Hubs, and finally to Enterprise Customers.
+*   A green callout box specifically links the "Quality Lab" stage to the mandatory testing protocols (thermal, network, firmware).

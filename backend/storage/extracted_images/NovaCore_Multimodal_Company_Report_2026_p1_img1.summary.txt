@@ -1,0 +1,12 @@
+Based on the visual provided, here is the extracted business, technical, and quantitative information:
+
+**Facility Identification & Infrastructure**
+*   **Facility Name:** Penang Smart Assembly Facility.
+*   **Operational Status:** Opened in 2024.
+*   **Capacity/Size:** 18,000 m².
+*   **Compliance:** ISO 9001 certified.
+*   **Infrastructure Features:** The facility is depicted with a large loading dock (industrial bay door) and a fleet of solar panels installed on the roof, indicating a focus on renewable energy generation.
+
+**Quantitative Performance Metrics (2026)**
+*   **Facility Utilization:** 82% (indicates high operational capacity usage).
+*   **Energy Sustainability:** Solar contribution to electricity is 34% (indicating over one-third of the facility's power is self-generated via the visible roof infrastructure).

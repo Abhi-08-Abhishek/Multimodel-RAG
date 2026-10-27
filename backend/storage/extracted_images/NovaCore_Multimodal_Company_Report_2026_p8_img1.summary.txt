@@ -1,0 +1,15 @@
+Based on the visual provided, here is the description of the business and quantitative information:
+
+**Chart Type:** Pie Chart
+**Title:** "Penang Facility Electricity Mix - 2026"
+**Subject:** Breakdown of energy sources for the NovaCore Penang facility for the year 2026.
+
+**Quantitative Data Points:**
+*   **Grid electricity:** 51% (Largest segment, colored blue)
+*   **Solar:** 34% (Second largest segment, colored orange)
+*   **Purchased renewables:** 15% (Smallest segment, colored green)
+
+**Business & Technical Analysis:**
+*   **Renewable Energy Adoption:** The facility utilizes a hybrid energy model. A combined 49% of the facility's power is derived from renewable sources (34% on-site Solar + 15% Purchased renewables).
+*   **Grid Dependence:** The facility remains slightly dependent on the traditional grid, which supplies just over half (51%) of the total electricity.
+*   **On-site Generation:** Solar power is the primary renewable source, accounting for nearly two-thirds of the total renewable energy mix (34% of total vs. 15% purchased).
